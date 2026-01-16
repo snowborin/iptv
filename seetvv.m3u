@@ -1,3 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="ТВ",Новий канал TV UKR HD
+#EXTINF:-1 group-title="Всі-TV",Новий канал
 http://pl.seetv.cc/play/651/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",1+1
+http://pl.seetv.cc/play/400/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",2+2
+http://pl.seetv.cc/play/656/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",ICTV
+http://pl.seetv.cc/play/9973/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",СТБ
+http://pl.seetv.cc/play/401/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",НТН
+http://pl.seetv.cc/play/402/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",СТС
+http://pl.seetv.cc/play/8/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",History
+http://pl.seetv.cc/play/188/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",Viasat Explore
+http://pl.seetv.cc/play/8852/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",Viju TV1000 Русское кино
+http://pl.seetv.cc/play/489/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",One Planet
+http://pl.seetv.cc/play/310/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="Всі-TV",Discovery Channel
+http://146.120.14.239:3001/play/a06y
+#EXTINF:-1 group-title="Всі-TV",Animal Planet
+http://146.120.14.239:3001/play/a06z
+#EXTINF:-1 group-title="Всі-TV",Nat Geo Wild
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Всі-TV",Viasat explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Всі-TV",Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Всі-TV",Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Всі-TV",M1
+http://pl.seetv.cc/play/9980/F6E1DD42544DD10/video.m3u8
